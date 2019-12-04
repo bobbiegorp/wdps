@@ -36,10 +36,10 @@ for i in (set(gold) & set(pred)):
         file.write(line)
 
 file = open("entities_not_recognized.txt","w+",encoding="utf-8")
-line = "(Doc,Word)" + "\n"
+line = "(Doc,Word)" +  "\t\t" + "Gold label" + "\n"
 file.write(line)
 for i in (set(gold) - (set(gold) & set(pred))):
-    line = str(i) + "\n" #+ '\t' + pred[i] + '\t' + gold[i] + "\n"
+    line = str(i) + '\t' +  gold[i] + "\n" #+ '\t' + pred[i] + '\t' + gold[i] + "\n"
     file.write(line)
 
 # Calculate scores

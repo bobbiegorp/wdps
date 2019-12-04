@@ -1,180 +1,180 @@
-(Doc,Word)
-('clueweb12-0000tw-00-00015', 'Internet')
-('clueweb12-0000tw-00-00082', 'Fortune')
-('clueweb12-0000tw-00-00073', 'Shurikens')
-('clueweb12-0000tw-00-00024', 'Kansas City')
-('clueweb12-0000tw-00-00061', 'New York Public Interest Research Group')
-('clueweb12-0000tw-00-00065', 'Stephen Windwalker')
-('clueweb12-0000tw-00-00054', 'Twitter')
-('clueweb12-0000tw-00-00090', 'Ghost Adventures')
-('clueweb12-0000tw-00-00073', 'The Simpsons Arcade Game')
-('clueweb12-0000tw-00-00059', 'American')
-('clueweb12-0000tw-00-00077', 'Mass Effect 2')
-('clueweb12-0000tw-00-00060', 'Dude')
-('clueweb12-0000tw-00-00074', 'Double Fine')
-('clueweb12-0000tw-00-00059', 'Brooklyn')
-('clueweb12-0000tw-00-00064', 'BA')
-('clueweb12-0000tw-00-00070', 'HR')
-('clueweb12-0000tw-00-00071', 'Double Fine')
-('clueweb12-0000tw-00-00065', 'Virginia beach')
-('clueweb12-0000tw-00-00073', 'Starhawk')
-('clueweb12-0000tw-00-00013', 'HIV-AIDS')
-('clueweb12-0000tw-00-00035', 'NEW YORK')
-('clueweb12-0000tw-00-00075', 'Frictional Games')
-('clueweb12-0000tw-00-00071', 'Skyrim')
-('clueweb12-0000tw-00-00070', 'King Arthur II')
-('clueweb12-0000tw-00-00070', '1UP')
-('clueweb12-0000tw-00-00041', 'Irish Times')
-('clueweb12-0000tw-00-00076', 'Old Republic')
-('clueweb12-0000tw-00-00077', 'Starhawk')
-('clueweb12-0000tw-00-00073', 'Skyrim')
-('clueweb12-0000tw-00-00071', 'Today')
-('clueweb12-0000tw-00-00059', 'Facebook')
-('clueweb12-0000tw-00-00073', 'Old Republic')
-('clueweb12-0000tw-00-00037', 'PARIS')
-('clueweb12-0000tw-00-00019', 'US')
-('clueweb12-0000tw-00-00019', 'National Institute of Mental Health')
-('clueweb12-0000tw-00-00080', 'Graphic Design')
-('clueweb12-0000tw-00-00054', 'Greyson Michael Chance')
-('clueweb12-0000tw-00-00073', 'Final Fantasy XIII-2')
-('clueweb12-0000tw-00-00070', 'Total War')
-('clueweb12-0000tw-00-00073', 'Burns')
-('clueweb12-0000tw-00-00070', 'Old Republic')
-('clueweb12-0000tw-00-00033', 'New York Stock Exchange')
-('clueweb12-0000tw-00-00047', 'Prego')
-('clueweb12-0000tw-00-00086', 'HootSuite')
-('clueweb12-0000tw-00-00034', 'Bank of England')
-('clueweb12-0000tw-00-00054', "Hold On 'Til the Night")
-('clueweb12-0000tw-00-00057', 'Gothamist')
-('clueweb12-0000tw-00-00034', 'FRANKFURT')
-('clueweb12-0000tw-00-00083', 'Company')
-('clueweb12-0000tw-00-00054', 'Waiting Outside the Lines')
-('clueweb12-0000tw-00-00081', 'Cialdini')
-('clueweb12-0000tw-00-00066', 'Stephen Windwalker')
-('clueweb12-0000tw-00-00017', 'Primary HIV Infection')
-('clueweb12-0000tw-00-00086', 'Google+')
-('clueweb12-0000tw-00-00070', 'Xbox 360')
-('clueweb12-0000tw-00-00071', 'iPad')
-('clueweb12-0000tw-00-00074', 'Warcraft 3')
-('clueweb12-0000tw-00-00063', 'Romans')
-('clueweb12-0000tw-00-00062', 'OccupyWallStreet')
-('clueweb12-0000tw-00-00077', 'Xbox 360')
-('clueweb12-0000tw-00-00082', 'Google+')
-('clueweb12-0000tw-00-00026', 'New Zealand Ministry of Health')
-('clueweb12-0000tw-00-00071', 'Barnes and Noble')
-('clueweb12-0000tw-00-00074', 'Old Republic')
-('clueweb12-0000tw-00-00071', 'Apple')
-('clueweb12-0000tw-00-00051', "Sam's")
-('clueweb12-0000tw-00-00049', 'Paul Prudhomme')
-('clueweb12-0000tw-00-00031', 'Myeloma')
-('clueweb12-0000tw-00-00028', 'Susan G. Komen')
-('clueweb12-0000tw-00-00026', 'Palliative care')
-('clueweb12-0000tw-00-00074', 'Shurikens')
-('clueweb12-0000tw-00-00071', 'Old Republic')
-('clueweb12-0000tw-00-00085', 'Google+')
-('clueweb12-0000tw-00-00075', 'Skyrim')
-('clueweb12-0000tw-00-00070', 'King Arthur')
-('clueweb12-0000tw-00-00029', 'Primary Health Care')
-('clueweb12-0000tw-00-00077', 'Shurikens')
-('clueweb12-0000tw-00-00056', 'Rhinos')
-('clueweb12-0000tw-00-00051', 'Believe It Or Not')
-('clueweb12-0000tw-00-00077', 'Mass Effect 3')
-('clueweb12-0000tw-00-00092', 'Log In')
-('clueweb12-0000tw-00-00070', 'Shurikens')
-('clueweb12-0000tw-00-00072', 'Old Republic')
-('clueweb12-0000tw-00-00054', 'ABC World News')
-('clueweb12-0000tw-00-00083', 'phpMyAdmin')
-('clueweb12-0000tw-00-00041', 'Irish Sea')
-('clueweb12-0000tw-00-00063', 'Stephen Windwalker')
-('clueweb12-0000tw-00-00083', 'Gator')
-('clueweb12-0000tw-00-00076', 'Double Fine')
-('clueweb12-0000tw-00-00070', 'Suda 51')
-('clueweb12-0000tw-00-00070', 'Skyrim')
-('clueweb12-0000tw-00-00046', 'Internet Explorer')
-('clueweb12-0000tw-00-00062', 'Department of Education')
-('clueweb12-0000tw-00-00053', 'The Bourne Legacy')
-('clueweb12-0000tw-00-00061', 'Three Mile Island')
-('clueweb12-0000tw-00-00056', 'Gothamist')
-('clueweb12-0000tw-00-00071', 'Twitter')
-('clueweb12-0000tw-00-00077', 'Double Fine')
-('clueweb12-0000tw-00-00073', "Valentine's Day")
-('clueweb12-0000tw-00-00083', 'Feedburner')
-('clueweb12-0000tw-00-00070', 'Double Fine')
-('clueweb12-0000tw-00-00054', 'Fox')
-('clueweb12-0000tw-00-00033', 'NEW YORK')
-('clueweb12-0000tw-00-00031', 'Discover')
-('clueweb12-0000tw-00-00070', 'Starhawk')
-('clueweb12-0000tw-00-00067', 'Stephen Windwalker')
-('clueweb12-0000tw-00-00082', 'US')
-('clueweb12-0000tw-00-00046', 'Flip4Mac')
-('clueweb12-0000tw-00-00075', 'Amnesia: The Dark Descent')
-('clueweb12-0000tw-00-00077', 'Skyrim')
-('clueweb12-0000tw-00-00074', 'Icefrog')
-('clueweb12-0000tw-00-00013', 'HIV AIDS')
-('clueweb12-0000tw-00-00060', 'New YORK POST')
-('clueweb12-0000tw-00-00035', 'CNNMoney')
-('clueweb12-0000tw-00-00074', 'Skyrim')
-('clueweb12-0000tw-00-00070', 'Spring')
-('clueweb12-0000tw-00-00073', 'Jak and Daxter')
-('clueweb12-0000tw-00-00024', 'Newspaper')
-('clueweb12-0000tw-00-00056', 'X-ray')
-('clueweb12-0000tw-00-00076', 'Skyrim')
-('clueweb12-0000tw-00-00054', 'Ellen DeGeneres Show')
-('clueweb12-0000tw-00-00088', 'UA')
-('clueweb12-0000tw-00-00080', 'Readability')
-('clueweb12-0000tw-00-00054', 'Raising Hope')
-('clueweb12-0000tw-00-00061', 'Gothamist')
-('clueweb12-0000tw-00-00060', 'Gothamist')
-('clueweb12-0000tw-00-00070', 'Amnesia: The Dark Descent')
-('clueweb12-0000tw-00-00038', 'PARIS')
-('clueweb12-0000tw-00-00033', 'CNNMoney')
-('clueweb12-0000tw-00-00086', 'Trend')
-('clueweb12-0000tw-00-00060', 'Nice')
-('clueweb12-0000tw-00-00062', 'Occupy Wall Street')
-('clueweb12-0000tw-00-00062', 'Gothamist')
-('clueweb12-0000tw-00-00071', 'Thunderdome')
-('clueweb12-0000tw-00-00028', 'Charlotte')
-('clueweb12-0000tw-00-00074', 'Defense of the Ancients')
-('clueweb12-0000tw-00-00076', 'Starhawk')
-('clueweb12-0000tw-00-00046', 'Internet Service Providers')
-('clueweb12-0000tw-00-00007', 'light of the world')
-('clueweb12-0000tw-00-00059', 'Verrazano-Narrows Bridge')
-('clueweb12-0000tw-00-00058', 'Gothamist')
-('clueweb12-0000tw-00-00082', 'Twitter')
-('clueweb12-0000tw-00-00054', 'Waiting4U')
-('clueweb12-0000tw-00-00064', 'Romance Writers of America')
-('clueweb12-0000tw-00-00070', 'Splatter')
-('clueweb12-0000tw-00-00061', 'Gen')
-('clueweb12-0000tw-00-00084', '4G')
-('clueweb12-0000tw-00-00074', 'Dota 2')
-('clueweb12-0000tw-00-00089', 'UA')
-('clueweb12-0000tw-00-00082', "Men's Health")
-('clueweb12-0000tw-00-00074', 'Starcraft 2')
-('clueweb12-0000tw-00-00074', 'DOTA 2')
-('clueweb12-0000tw-00-00070', 'Frictional Games')
-('clueweb12-0000tw-00-00086', 'Save')
-('clueweb12-0000tw-00-00070', 'Mass Effect 3')
-('clueweb12-0000tw-00-00070', 'Shadow of the Colossus')
-('clueweb12-0000tw-00-00077', 'Old Republic')
-('clueweb12-0000tw-00-00083', 'BlogSpot')
-('clueweb12-0000tw-00-00009', 'World series')
-('clueweb12-0000tw-00-00071', 'Pikimal')
-('clueweb12-0000tw-00-00083', 'Google')
-('clueweb12-0000tw-00-00023', 'Americans')
-('clueweb12-0000tw-00-00026', 'Ministry of Health')
-('clueweb12-0000tw-00-00050', 'Cook')
-('clueweb12-0000tw-00-00086', 'Hootsuite')
-('clueweb12-0000tw-00-00034', 'New York Times')
-('clueweb12-0000tw-00-00020', 'Healthcare Management')
-('clueweb12-0000tw-00-00020', 'Bachelors')
-('clueweb12-0000tw-00-00057', 'Southern District of New York')
-('clueweb12-0000tw-00-00039', 'Total SA')
-('clueweb12-0000tw-00-00070', 'Last Guardian')
-('clueweb12-0000tw-00-00057', 'Documentary')
-('clueweb12-0000tw-00-00054', 'You Tube')
-('clueweb12-0000tw-00-00059', 'Gothamist')
-('clueweb12-0000tw-00-00058', 'Surgeon General')
-('clueweb12-0000tw-00-00057', 'Post')
-('clueweb12-0000tw-00-00072', 'Skyrim')
-('clueweb12-0000tw-00-00075', 'Old Republic')
-('clueweb12-0000tw-00-00069', 'Wiccans')
+(Doc,Word)		Gold label
+('clueweb12-0000tw-00-00020', 'Healthcare Management')	/m/02qyx7b
+('clueweb12-0000tw-00-00039', 'Total SA')	/m/03d938
+('clueweb12-0000tw-00-00041', 'Irish Sea')	/m/012815
+('clueweb12-0000tw-00-00028', 'Susan G. Komen')	/m/080bbf
+('clueweb12-0000tw-00-00092', 'Log In')	/m/02pvq3t
+('clueweb12-0000tw-00-00083', 'Gator')	/m/0416r0
+('clueweb12-0000tw-00-00086', 'Save')	/m/01thhh
+('clueweb12-0000tw-00-00057', 'Post')	/m/05p7hcr
+('clueweb12-0000tw-00-00026', 'New Zealand Ministry of Health')	/m/06z840
+('clueweb12-0000tw-00-00073', 'Final Fantasy XIII-2')	/m/0g9sv_q
+('clueweb12-0000tw-00-00061', 'Three Mile Island')	/m/0qjvd
+('clueweb12-0000tw-00-00065', 'Virginia beach')	/m/0mn0v
+('clueweb12-0000tw-00-00074', 'Shurikens')	/m/011j2w
+('clueweb12-0000tw-00-00019', 'National Institute of Mental Health')	/m/02bnhg
+('clueweb12-0000tw-00-00047', 'Prego')	/m/08q1jg
+('clueweb12-0000tw-00-00073', 'Skyrim')	/m/04gmzj
+('clueweb12-0000tw-00-00074', 'Defense of the Ancients')	/m/073pnt
+('clueweb12-0000tw-00-00064', 'Romance Writers of America')	/m/0chmg4
+('clueweb12-0000tw-00-00070', 'Old Republic')	/m/04q3kvg
+('clueweb12-0000tw-00-00083', 'Feedburner')	/m/0fmngy
+('clueweb12-0000tw-00-00083', 'Google')	/m/045c7b
+('clueweb12-0000tw-00-00076', 'Skyrim')	/m/04gmzj
+('clueweb12-0000tw-00-00026', 'Ministry of Health')	/m/06z840
+('clueweb12-0000tw-00-00074', 'DOTA 2')	/m/0dlkwn1
+('clueweb12-0000tw-00-00073', 'The Simpsons Arcade Game')	/m/0401_3
+('clueweb12-0000tw-00-00064', 'BA')	/m/014mlp
+('clueweb12-0000tw-00-00073', 'Old Republic')	/m/04q3kvg
+('clueweb12-0000tw-00-00074', 'Skyrim')	/m/04gmzj
+('clueweb12-0000tw-00-00063', 'Romans')	/m/02l341
+('clueweb12-0000tw-00-00082', "Men's Health")	/m/01z25t
+('clueweb12-0000tw-00-00071', 'Today')	/m/01h1bf
+('clueweb12-0000tw-00-00054', 'Fox')	/m/0cjdk
+('clueweb12-0000tw-00-00077', 'Double Fine')	/m/02bkx8
+('clueweb12-0000tw-00-00061', 'New York Public Interest Research Group')	/m/040k1y
+('clueweb12-0000tw-00-00070', 'Skyrim')	/m/04gmzj
+('clueweb12-0000tw-00-00074', 'Icefrog')	/m/0h3x557
+('clueweb12-0000tw-00-00082', 'Twitter')	/m/0289n8t
+('clueweb12-0000tw-00-00076', 'Old Republic')	/m/04q3kvg
+('clueweb12-0000tw-00-00081', 'Cialdini')	/m/03b3jv
+('clueweb12-0000tw-00-00074', 'Old Republic')	/m/04q3kvg
+('clueweb12-0000tw-00-00073', 'Burns')	/m/01hwqk
+('clueweb12-0000tw-00-00074', 'Starcraft 2')	/m/02qty_5
+('clueweb12-0000tw-00-00060', 'Nice')	/m/0cp6w
+('clueweb12-0000tw-00-00060', 'Dude')	/m/01xgsv
+('clueweb12-0000tw-00-00070', 'Starhawk')	/m/0gtwc_j
+('clueweb12-0000tw-00-00054', "Hold On 'Til the Night")	/m/0h1gl55
+('clueweb12-0000tw-00-00057', 'Gothamist')	/m/0h7tps
+('clueweb12-0000tw-00-00071', 'Apple')	/m/0k8z
+('clueweb12-0000tw-00-00077', 'Skyrim')	/m/04gmzj
+('clueweb12-0000tw-00-00073', 'Starhawk')	/m/0gtwc_j
+('clueweb12-0000tw-00-00070', '1UP')	/m/065x3t
+('clueweb12-0000tw-00-00070', 'Frictional Games')	/m/03qh21m
+('clueweb12-0000tw-00-00038', 'PARIS')	/m/05qtj
+('clueweb12-0000tw-00-00074', 'Double Fine')	/m/02bkx8
+('clueweb12-0000tw-00-00069', 'Wiccans')	/m/08356
+('clueweb12-0000tw-00-00083', 'Company')	/m/03bxgrp
+('clueweb12-0000tw-00-00026', 'Palliative care')	/m/01p8f_
+('clueweb12-0000tw-00-00076', 'Starhawk')	/m/0gtwc_j
+('clueweb12-0000tw-00-00031', 'Discover')	/m/02f8lj
+('clueweb12-0000tw-00-00070', 'HR')	/m/03nzg
+('clueweb12-0000tw-00-00035', 'NEW YORK')	/m/02_286
+('clueweb12-0000tw-00-00050', 'Cook')	/m/04y7pl
+('clueweb12-0000tw-00-00077', 'Old Republic')	/m/04q3kvg
+('clueweb12-0000tw-00-00054', 'You Tube')	/m/09jcvs
+('clueweb12-0000tw-00-00054', 'Waiting4U')	/m/0gxz86v
+('clueweb12-0000tw-00-00059', 'American')	/m/09c7w0
+('clueweb12-0000tw-00-00070', 'Double Fine')	/m/02bkx8
+('clueweb12-0000tw-00-00074', 'Warcraft 3')	/m/0gldg
+('clueweb12-0000tw-00-00071', 'Thunderdome')	/m/02v1cp
+('clueweb12-0000tw-00-00054', 'Waiting Outside the Lines')	/m/0gfjdg0
+('clueweb12-0000tw-00-00077', 'Shurikens')	/m/011j2w
+('clueweb12-0000tw-00-00054', 'Twitter')	/m/0289n8t
+('clueweb12-0000tw-00-00067', 'Stephen Windwalker')	/m/04jc5lt
+('clueweb12-0000tw-00-00070', 'Spring')	/m/01txr2
+('clueweb12-0000tw-00-00070', 'Amnesia: The Dark Descent')	/m/09g9srb
+('clueweb12-0000tw-00-00041', 'Irish Times')	/m/012vh7
+('clueweb12-0000tw-00-00074', 'Dota 2')	/m/0dlkwn1
+('clueweb12-0000tw-00-00077', 'Starhawk')	/m/0gtwc_j
+('clueweb12-0000tw-00-00070', 'Xbox 360')	/m/02plp2
+('clueweb12-0000tw-00-00033', 'New York Stock Exchange')	/m/05drh
+('clueweb12-0000tw-00-00056', 'X-ray')	/m/087gx
+('clueweb12-0000tw-00-00023', 'Americans')	/m/09c7w0
+('clueweb12-0000tw-00-00062', 'Occupy Wall Street')	/m/0h63jfq
+('clueweb12-0000tw-00-00061', 'Gen')	/m/0130xz
+('clueweb12-0000tw-00-00020', 'Bachelors')	/m/01jz1
+('clueweb12-0000tw-00-00082', 'Google+')	/m/0gh6xtp
+('clueweb12-0000tw-00-00058', 'Surgeon General')	/m/01g242
+('clueweb12-0000tw-00-00034', 'FRANKFURT')	/m/02z0j
+('clueweb12-0000tw-00-00029', 'Primary Health Care')	/m/07pkj8
+('clueweb12-0000tw-00-00071', 'Double Fine')	/m/02bkx8
+('clueweb12-0000tw-00-00013', 'HIV AIDS')	/m/0d19y2
+('clueweb12-0000tw-00-00033', 'NEW YORK')	/m/02_286
+('clueweb12-0000tw-00-00071', 'Old Republic')	/m/04q3kvg
+('clueweb12-0000tw-00-00070', 'Splatter')	/m/02vn3k
+('clueweb12-0000tw-00-00089', 'UA')	/m/07y2s
+('clueweb12-0000tw-00-00077', 'Xbox 360')	/m/02plp2
+('clueweb12-0000tw-00-00072', 'Old Republic')	/m/04q3kvg
+('clueweb12-0000tw-00-00017', 'Primary HIV Infection')	/m/0dfspk
+('clueweb12-0000tw-00-00070', 'Shadow of the Colossus')	/m/05zht0
+('clueweb12-0000tw-00-00037', 'PARIS')	/m/05qtj
+('clueweb12-0000tw-00-00077', 'Mass Effect 3')	/m/04f2mnn
+('clueweb12-0000tw-00-00059', 'Verrazano-Narrows Bridge')	/m/01q6lq
+('clueweb12-0000tw-00-00070', 'Mass Effect 3')	/m/04f2mnn
+('clueweb12-0000tw-00-00046', 'Internet Explorer')	/m/03xw0
+('clueweb12-0000tw-00-00054', 'Raising Hope')	/m/0c01d7p
+('clueweb12-0000tw-00-00070', 'Shurikens')	/m/011j2w
+('clueweb12-0000tw-00-00086', 'Google+')	/m/0gh6xtp
+('clueweb12-0000tw-00-00071', 'Skyrim')	/m/04gmzj
+('clueweb12-0000tw-00-00057', 'Southern District of New York')	/m/037ycj
+('clueweb12-0000tw-00-00072', 'Skyrim')	/m/04gmzj
+('clueweb12-0000tw-00-00046', 'Flip4Mac')	/m/0bf90p
+('clueweb12-0000tw-00-00059', 'Brooklyn')	/m/0cr3d
+('clueweb12-0000tw-00-00084', '4G')	/m/02g9ds
+('clueweb12-0000tw-00-00071', 'iPad')	/m/09rvlp4
+('clueweb12-0000tw-00-00056', 'Gothamist')	/m/0h7tps
+('clueweb12-0000tw-00-00086', 'HootSuite')	/m/080chm5
+('clueweb12-0000tw-00-00086', 'Trend')	/m/0g_23
+('clueweb12-0000tw-00-00080', 'Graphic Design')	/m/03c31
+('clueweb12-0000tw-00-00065', 'Stephen Windwalker')	/m/04jc5lt
+('clueweb12-0000tw-00-00082', 'Fortune')	/m/017804
+('clueweb12-0000tw-00-00083', 'phpMyAdmin')	/m/02r81f
+('clueweb12-0000tw-00-00054', 'Greyson Michael Chance')	/m/0bxzfbd
+('clueweb12-0000tw-00-00056', 'Rhinos')	/m/03d443
+('clueweb12-0000tw-00-00071', 'Barnes and Noble')	/m/01b7dt
+('clueweb12-0000tw-00-00019', 'US')	/m/09c7w0
+('clueweb12-0000tw-00-00063', 'Stephen Windwalker')	/m/04jc5lt
+('clueweb12-0000tw-00-00007', 'light of the world')	/m/0gjf48y
+('clueweb12-0000tw-00-00073', 'Jak and Daxter')	/m/02mrr1
+('clueweb12-0000tw-00-00035', 'CNNMoney')	/m/03m3wyd
+('clueweb12-0000tw-00-00031', 'Myeloma')	/m/01qqwn
+('clueweb12-0000tw-00-00024', 'Kansas City')	/m/04f_d
+('clueweb12-0000tw-00-00024', 'Newspaper')	/m/05jnl
+('clueweb12-0000tw-00-00009', 'World series')	/m/0fjp3
+('clueweb12-0000tw-00-00071', 'Twitter')	/m/0289n8t
+('clueweb12-0000tw-00-00075', 'Amnesia: The Dark Descent')	/m/09g9srb
+('clueweb12-0000tw-00-00053', 'The Bourne Legacy')	/m/03qnvdl
+('clueweb12-0000tw-00-00059', 'Facebook')	/m/02y1vz
+('clueweb12-0000tw-00-00070', 'Total War')	/m/02l2fg
+('clueweb12-0000tw-00-00082', 'US')	/m/09c7w0
+('clueweb12-0000tw-00-00054', 'Ellen DeGeneres Show')	/m/0528kc
+('clueweb12-0000tw-00-00077', 'Mass Effect 2')	/m/03whsdg
+('clueweb12-0000tw-00-00058', 'Gothamist')	/m/0h7tps
+('clueweb12-0000tw-00-00051', "Sam's")	/m/02wqsl
+('clueweb12-0000tw-00-00076', 'Double Fine')	/m/02bkx8
+('clueweb12-0000tw-00-00054', 'ABC World News')	/m/01bnbs
+('clueweb12-0000tw-00-00062', 'Department of Education')	/m/03cf3jg
+('clueweb12-0000tw-00-00070', 'King Arthur')	/m/04904
+('clueweb12-0000tw-00-00061', 'Gothamist')	/m/0h7tps
+('clueweb12-0000tw-00-00073', "Valentine's Day")	/m/018y5m
+('clueweb12-0000tw-00-00028', 'Charlotte')	/m/0fsb8
+('clueweb12-0000tw-00-00090', 'Ghost Adventures')	/m/0522tkb
+('clueweb12-0000tw-00-00071', 'Pikimal')	/m/0gtx5dl
+('clueweb12-0000tw-00-00060', 'Gothamist')	/m/0h7tps
+('clueweb12-0000tw-00-00086', 'Hootsuite')	/m/080chm5
+('clueweb12-0000tw-00-00070', 'Last Guardian')	/m/06404g0
+('clueweb12-0000tw-00-00075', 'Frictional Games')	/m/03qh21m
+('clueweb12-0000tw-00-00088', 'UA')	/m/07y2s
+('clueweb12-0000tw-00-00051', 'Believe It Or Not')	/m/02d4mb
+('clueweb12-0000tw-00-00046', 'Internet Service Providers')	/m/0pjxv
+('clueweb12-0000tw-00-00057', 'Documentary')	/m/0jtdp
+('clueweb12-0000tw-00-00034', 'Bank of England')	/m/01fnc
+('clueweb12-0000tw-00-00015', 'Internet')	/m/03rlt
+('clueweb12-0000tw-00-00070', 'King Arthur II')	/m/0hzmwm0
+('clueweb12-0000tw-00-00083', 'BlogSpot')	/m/01scs3
+('clueweb12-0000tw-00-00034', 'New York Times')	/m/07k2d
+('clueweb12-0000tw-00-00085', 'Google+')	/m/0gh6xtp
+('clueweb12-0000tw-00-00075', 'Old Republic')	/m/04q3kvg
+('clueweb12-0000tw-00-00062', 'OccupyWallStreet')	/m/0h63jfq
+('clueweb12-0000tw-00-00070', 'Suda 51')	/m/05ttdr
+('clueweb12-0000tw-00-00049', 'Paul Prudhomme')	/m/04fglp
+('clueweb12-0000tw-00-00013', 'HIV-AIDS')	/m/03p41
+('clueweb12-0000tw-00-00060', 'New YORK POST')	/m/0px3s
+('clueweb12-0000tw-00-00033', 'CNNMoney')	/m/03m3wyd
+('clueweb12-0000tw-00-00062', 'Gothamist')	/m/0h7tps
+('clueweb12-0000tw-00-00075', 'Skyrim')	/m/04gmzj
+('clueweb12-0000tw-00-00059', 'Gothamist')	/m/0h7tps
+('clueweb12-0000tw-00-00066', 'Stephen Windwalker')	/m/04jc5lt
+('clueweb12-0000tw-00-00080', 'Readability')	/m/01zspc
+('clueweb12-0000tw-00-00073', 'Shurikens')	/m/011j2w
