@@ -1,4 +1,4 @@
-import sys
+import sys,os
 
 gold_file = sys.argv[1]
 pred_file = sys.argv[2]
@@ -26,7 +26,10 @@ print("Amount of mappings: %s" % len(set(gold) & set(pred)))
 print('Correct mappings: %s' % n_correct)
 print("Amount of incorrect: mappings: %s" % (len(set(gold) & set(pred)) - n_correct))
 
-file = open("incorrect_mapping.txt","w+",encoding="utf-8")
+if not os.path.exists(os.path.dirname("./incorrect_samples/")):
+    os.makedirs(os.path.dirname("./incorrect_samples/"))
+
+file = open("./incorrect_samples/incorrect_mapping.txt","w+",encoding="utf-8")
 line = "(Doc,Word)" + '\t\t\t\t\t' + "Predictions" + '\t\t' + "Gold" + "\n"
 file.write(line)
 
@@ -35,7 +38,7 @@ for i in (set(gold) & set(pred)):
         line = str(i) + '\t' + pred[i] + '\t' + gold[i] + "\n"
         file.write(line)
 
-file = open("entities_not_recognized.txt","w+",encoding="utf-8")
+file = open("./incorrect_samples/entities_not_recognized.txt","w+",encoding="utf-8")
 line = "(Doc,Word)" +  "\t\t" + "Gold label" + "\n"
 file.write(line)
 for i in (set(gold) - (set(gold) & set(pred))):
